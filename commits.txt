@@ -1,0 +1,17 @@
+commit 6253d122108a8295dd163a9dcc2e1e8d9e9a955f
+Author: RobertoIngECR <RobertoIngECR@gmail.com>
+Date:   Fri Sep 2 10:05:46 2016 -0400
+
+    Se agrego un párrafo y se cambio los estilos del botón
+
+commit f8cb33298ccc49698d0b4da7533f61410fb48a69
+Author: RobertoIngECR <RobertoIngECR@gmail.com>
+Date:   Fri Sep 2 09:53:38 2016 -0400
+
+    Agregamos twitter a la página
+
+commit b87af892ed67f8cfca6a00185e26b14a3d80de17
+Author: RobertoIngECR <RobertoIngECR@gmail.com>
+Date:   Fri Sep 2 09:45:04 2016 -0400
+
+    Este es el inicio del proyecto
