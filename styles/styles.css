@@ -84,8 +84,12 @@ p{
 	background-color: #4299D4;
 	color: black;
 	margin: 10px 0;
-	display: inline-block;<!--Para que pueda tener margen-->
+	display: inline-block;/*Para que pueda tener margen*/
+	transition:0.3s;
+}
 
+.btn:hover{
+	transform: scale(1.2);
 }
 /*Animación*/
 @keyframes float {
